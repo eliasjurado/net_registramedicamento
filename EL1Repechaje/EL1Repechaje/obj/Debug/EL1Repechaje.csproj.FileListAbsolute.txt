@@ -1,0 +1,10 @@
+D:\EL1Repechaje\EL1Repechaje\bin\Debug\EL1Repechaje.exe.config
+D:\EL1Repechaje\EL1Repechaje\bin\Debug\EL1Repechaje.exe
+D:\EL1Repechaje\EL1Repechaje\bin\Debug\EL1Repechaje.pdb
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.csprojAssemblyReference.cache
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.Form1.resources
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.Properties.Resources.resources
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.csproj.GenerateResource.cache
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.csproj.CoreCompileInputs.cache
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.exe
+D:\EL1Repechaje\EL1Repechaje\obj\Debug\EL1Repechaje.pdb
